@@ -48,3 +48,10 @@ npm run start
 Y asegurate el servidor se conecte validando el siguiente mensaje en la terminal:
 
 ![image](https://user-images.githubusercontent.com/64673306/149877639-9ffa680a-a143-4c62-8876-6edc33f651ac.png)
+
+#### 6. Mira la documentación de la API
+
+Valida la documentación que se encuentra en el archivo `spec.yml`, copiala y pegala en **[Swagger](https://editor.swagger.io/)** para facilitar su visualización.
+
+![image](https://user-images.githubusercontent.com/64673306/149879573-dacf3219-f956-4db1-ab5b-264156a28f6d.png)
+
