@@ -55,3 +55,8 @@ Valida la documentación que se encuentra en el archivo `spec.yml`, copiala y pe
 
 ![image](https://user-images.githubusercontent.com/64673306/149879573-dacf3219-f956-4db1-ab5b-264156a28f6d.png)
 
+#### 7. Postman
+
+Podrás importar el archivo **`BE/Data-Warehouse.postman_collection.json`** como colección en **POSTMAN** y así probar allí cada uno de los endpoints.
+
+![image](https://user-images.githubusercontent.com/64673306/149881033-7d53f41e-7a55-4ec2-b1e5-09d2d579427d.png)
