@@ -113,7 +113,7 @@ var _require2 = require('./functions.js'),
 app.use(express.json());
 app.use(helmet());
 app.listen(process.env.PORT || 3000, function () {
-  return console.log('server started');
+  return console.log('✅ Server started');
 });
 app.use(function (req, res, next) {
   res.header('Access-Control-Allow-Origin', '*');

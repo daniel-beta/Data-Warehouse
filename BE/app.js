@@ -30,7 +30,7 @@ const { validateLogin, verifyToken, filterAdmin, validateFirstname, validateLast
 app.use(express.json())
 app.use(helmet())
 
-app.listen(process.env.PORT || 3000, () => console.log('server started'))
+app.listen(process.env.PORT || 3000, () => console.log('✅ Server started'))
 
 app.use(function (req, res, next) {
   res.header('Access-Control-Allow-Origin', '*')
